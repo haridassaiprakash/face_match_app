@@ -1,1 +1,1 @@
-# face_match_app
+# face_matching_application
